@@ -27,4 +27,4 @@ Pseudocode:
         
         print("Mod successfully updated to version", target_version)
 
-***User Discretion: Users of this software are strictly prohibited from redistributing the modifications as their own at any point in time.***
+***User Discretion: Users of this software are strictly prohibited from redistributing the modifications as their own at any point in time!!!***
